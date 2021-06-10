@@ -1,0 +1,8 @@
+*.o
+*~
+arcade
+*lib_arcade_*
+.vscode
+*arcade
+*lib_arcade_*
+*.~lock*

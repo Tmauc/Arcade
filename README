@@ -1,0 +1,21 @@
+COMMENT JOUER ?
+
+- Clavier puis RETURN pour valider son Username
+
+- 1 2 3 4 5 pour selectioner le jeu et la lib dans le menu
+- RETURN pour valider et lancer le jeu
+
+- Les 4 boutons de direction UP DOWN LEFT RIGHT pour se deplacer
+- K / L pour changer de lib ingame
+- O / P pour changer de jeu ingame
+- RETURN pour relancer le jeu ingame
+- ESCAPE pour revenir au menu
+
+- SPACE pour lancer les missiles dans solarfox
+- SHIFT pour accelerer dans solarfox
+
+IDENTIFIANTS TEXTURE :
+- 0 SOL
+- 1 BONBON
+- 2 COLLISION
+- 3 PLAYER
